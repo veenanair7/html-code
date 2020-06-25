@@ -1,0 +1,5 @@
+span{background:pink;margin:0 0 0 10em}
+	p{background:url(Images/cartoon.png)fuchsia repeat; height:3.5 em}
+	p#x{background-repeat: repeat-x}
+	p#y{background-repeat: repeat-y}
+	p#none{background-repeat: no-repeat}
